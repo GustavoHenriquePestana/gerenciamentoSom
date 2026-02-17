@@ -1,0 +1,5 @@
+{
+  "name": "SoundEquip Manager",
+  "description": "Sistema de gerenciamento de equipamentos de som para igrejas. Permite controle de inventário, fluxo de manutenção e perfis de acesso (Administrador e Usuário). Backend simulado via LocalStorage para demonstração imediata.",
+  "requestFramePermissions": []
+}
